@@ -642,9 +642,9 @@ a {
       padding: 10px 20px;
       display: block;
       position: relative;
-      color: #212529; }
+      color: #cccccc; }
       .site-mobile-menu .site-nav-wrap a:hover {
-        color: #fff; }
+        color: ##20c997; }
     .site-mobile-menu .site-nav-wrap li {
       position: relative;
       display: block; }
