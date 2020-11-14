@@ -24,11 +24,12 @@
     height: 100%;
 }
 
-
 .logo {
   float: left;
-  width: 30em;
+  width: 200%;
+  max-width: 300px;
   position: relative;
+  text-align: left;
 }
 
 .switch-label {
