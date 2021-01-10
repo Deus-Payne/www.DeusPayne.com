@@ -116,8 +116,8 @@
   }
   11% {
     transform: scale(1, 1) translate3d(0, 0, 0);
-    -webkit-filter: contrast(2.2) brightness(2.2);
-    filter: contrast(2.2) brightness(2.2);
+    -webkit-filter: contrast(1.2) brightness(1.2);
+    filter: contrast(1.2) brightness(1.2);
     opacity: 0;
   }
   100% {
