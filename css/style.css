@@ -73,7 +73,7 @@
   background: #121010;
   margin-top: 10px;
   position: relative;
-  height: 41em;
+  height: 100vh;
   overflow: hidden;
 }
 .container::before {
