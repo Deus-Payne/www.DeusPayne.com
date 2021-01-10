@@ -1374,7 +1374,7 @@ a {
   text-transform: uppercase;
   font-size: 11px;
   letter-spacing: .1em;
-  background-color: #000;
+  background-color: rgba(0,0,0,.65);
 }
   .btn-outline-white:hover {
     background: #fff;
@@ -1416,7 +1416,7 @@ a {
     -ms-transform: translate(-50%, -50%);
     transform: translate(-50%, -50%); }
     .image-wrap-2 .image-info h2 {
-        background-color: #000000;
+        background-color: rgba(0,0,0,.65);
         color: #ffffff;
         border-color: #fff;
         border-width: 2px;}
