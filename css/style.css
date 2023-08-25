@@ -177,13 +177,18 @@
   }
 }
 .overlay {
-  color: #00FF00;
-  position: absolute;
-  top: 20px;
-  left: 20px;
-  font-size: 60px;
-  visibility: hidden;
-  pointer-events: none;
+color:#00FF00;
+  text-align: right;
+position: absolute;
+    display: block;
+    
+  top:20px;
+  left:60px;
+  font-size:60px;
+    width: 100%;
+ 
+  visibility:hidden;
+  pointer-events:none;
 }
 
 #switch:checked ~ .container .overlay {
